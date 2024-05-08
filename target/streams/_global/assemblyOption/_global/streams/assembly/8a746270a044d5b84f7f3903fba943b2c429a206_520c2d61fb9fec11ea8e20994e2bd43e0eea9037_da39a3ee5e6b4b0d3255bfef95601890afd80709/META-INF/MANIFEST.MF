@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spark-daria
+Implementation-Version: 1.0.0
+Specification-Vendor: com.github.mrpowers
+Specification-Title: spark-daria
+Implementation-Vendor-Id: com.github.mrpowers
+Specification-Version: 1.0.0
+Implementation-URL: https://github.com/MrPowers/spark-daria
+Implementation-Vendor: com.github.mrpowers
+
